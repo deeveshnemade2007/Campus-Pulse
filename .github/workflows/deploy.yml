@@ -1,0 +1,27 @@
+
+name: CampusPulse Production Deployment
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  deployments: write
+
+jobs:
+  register-deployment:
+    name: Register Production Deployment
+    runs-on: ubuntu-latest
+    environment:
+      name: Production
+      url: https://campus-pulse-dn.streamlit.app/
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Register deployment
+        run: echo "CampusPulse production deployment workflow completed."
