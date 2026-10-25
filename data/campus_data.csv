@@ -1,0 +1,151 @@
+Day,Building,Electricity_kWh
+1,Computer Lab,131
+1,Library,82
+1,Classroom,50
+1,Office,77
+1,Workshop,157
+2,Computer Lab,103
+2,Library,92
+2,Classroom,73
+2,Office,26
+2,Workshop,90
+3,Computer Lab,137
+3,Library,149
+3,Classroom,56
+3,Office,118
+3,Workshop,84
+4,Computer Lab,126
+4,Library,83
+4,Classroom,154
+4,Office,31
+4,Workshop,87
+5,Computer Lab,139
+5,Library,97
+5,Classroom,82
+5,Office,52
+5,Workshop,138
+6,Computer Lab,157
+6,Library,89
+6,Classroom,31
+6,Office,66
+6,Workshop,113
+7,Computer Lab,141
+7,Library,70
+7,Classroom,37
+7,Office,64
+7,Workshop,151
+8,Computer Lab,103
+8,Library,99
+8,Classroom,74
+8,Office,39
+8,Workshop,158
+9,Computer Lab,167
+9,Library,84
+9,Classroom,40
+9,Office,32
+9,Workshop,102
+10,Computer Lab,120
+10,Library,48
+10,Classroom,113
+10,Office,47
+10,Workshop,106
+11,Computer Lab,165
+11,Library,40
+11,Classroom,76
+11,Office,25
+11,Workshop,309
+12,Computer Lab,158
+12,Library,81
+12,Classroom,144
+12,Office,63
+12,Workshop,165
+13,Computer Lab,180
+13,Library,84
+13,Classroom,58
+13,Office,56
+13,Workshop,155
+14,Computer Lab,121
+14,Library,96
+14,Classroom,57
+14,Office,68
+14,Workshop,144
+15,Computer Lab,171
+15,Library,72
+15,Classroom,56
+15,Office,37
+15,Workshop,172
+16,Computer Lab,106
+16,Library,76
+16,Classroom,71
+16,Office,39
+16,Workshop,165
+17,Computer Lab,131
+17,Library,88
+17,Classroom,41
+17,Office,26
+17,Workshop,170
+18,Computer Lab,160
+18,Library,41
+18,Classroom,149
+18,Office,56
+18,Workshop,195
+19,Computer Lab,123
+19,Library,45
+19,Classroom,59
+19,Office,41
+19,Workshop,93
+20,Computer Lab,177
+20,Library,50
+20,Classroom,45
+20,Office,30
+20,Workshop,72
+21,Computer Lab,138
+21,Library,65
+21,Classroom,48
+21,Office,31
+21,Workshop,197
+22,Computer Lab,80
+22,Library,96
+22,Classroom,52
+22,Office,66
+22,Workshop,159
+23,Computer Lab,139
+23,Library,72
+23,Classroom,41
+23,Office,56
+23,Workshop,78
+24,Computer Lab,98
+24,Library,42
+24,Classroom,83
+24,Office,48
+24,Workshop,182
+25,Computer Lab,117
+25,Library,74
+25,Classroom,54
+25,Office,53
+25,Workshop,179
+26,Computer Lab,133
+26,Library,100
+26,Classroom,111
+26,Office,38
+26,Workshop,197
+27,Computer Lab,146
+27,Library,72
+27,Classroom,88
+27,Office,46
+27,Workshop,107
+28,Computer Lab,130
+28,Library,66
+28,Classroom,50
+28,Office,52
+28,Workshop,130
+29,Computer Lab,149
+29,Library,158
+29,Classroom,73
+29,Office,53
+29,Workshop,75
+30,Computer Lab,116
+30,Library,88
+30,Classroom,60
+30,Office,102
+30,Workshop,136
